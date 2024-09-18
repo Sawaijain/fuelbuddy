@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "userId": 1,
+      "title": "My First Post",
+      "content": "Hello, this is my first post! Excited to be here.",
+      "likes": 10,
+      "image":"../assets/first.png",
+      "comments": ["Nice post!", "Welcome to the platform!"]
+    },
+    {
+      "id": 2,
+      "userId": 2,
+      "title": "Exploring New Tech",
+      "content": "I just started learning about the latest web development trends. It's amazing!",
+      "likes": 5,
+      "image":"../assets/first.png",
+      "comments": ["Great! Looking forward to your insights.", "Awesome!"]
+    }
+  ]
+  
